@@ -67,5 +67,5 @@
 * [C語言編程透視](https://www.bookstack.cn/read/open-c-book/doc-README.md)
 
 # Books
-* 強烈推薦一定要念完的書Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e) 中文版如下[深入理解计算机系统(中文版)](https://github.com/3masterplus/book/blob/master/%E3%80%901%E3%80%91%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
+* 強烈推薦一定要唸完的書Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e) 中文版如下[深入理解计算机系统(中文版)](https://github.com/3masterplus/book/blob/master/%E3%80%901%E3%80%91%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
   
