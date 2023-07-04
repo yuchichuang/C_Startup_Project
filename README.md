@@ -1,3 +1,52 @@
 # C_Startup_Project
-Descript how to start up a simple C project
-Introduce to Shell [带你认识一下shell](https://zhuanlan.zhihu.com/p/457868028#:~:text=%E4%B8%80%E3%80%81%E4%BB%80%E4%B9%88%E6%98%AFShell%EF%BC%9F%201%20%E7%94%B1%E4%BA%8E%E5%AE%89%E5%85%A8%E3%80%81%E5%A4%8D%E6%9D%82%E3%80%81%E7%B9%81%E7%90%90%E7%AD%89%E5%8E%9F%E5%9B%A0%EF%BC%8C%E7%94%A8%E6%88%B7%E4%B8%8D%E8%83%BD%E7%9B%B4%E6%8E%A5%E6%8E%A5%E8%A7%A6%E5%86%85%E6%A0%B8%EF%BC%88%E4%B9%9F%E6%B2%A1%E6%9C%89%E5%BF%85%E8%A6%81%EF%BC%89%EF%BC%8C%E9%9C%80%E8%A6%81%E5%8F%A6%E5%A4%96%E5%86%8D%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%EF%BC%8C%E8%AE%A9%E7%94%A8%E6%88%B7%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8%E8%BF%99%E4%B8%AA%E7%A8%8B%E5%BA%8F%EF%BC%9B%E8%AF%A5%E7%A8%8B%E5%BA%8F%E7%9A%84%E4%BD%9C%E7%94%A8%E5%B0%B1%E6%98%AF%E6%8E%A5%E6%94%B6%E7%94%A8%E6%88%B7%E7%9A%84%E6%93%8D%E4%BD%9C%EF%BC%88%E7%82%B9%E5%87%BB%E5%9B%BE%E6%A0%87%E3%80%81%E8%BE%93%E5%85%A5%E5%91%BD%E4%BB%A4%EF%BC%89%EF%BC%8C%E5%B9%B6%E8%BF%9B%E8%A1%8C%E7%AE%80%E5%8D%95%E7%9A%84%E5%A4%84%E7%90%86%EF%BC%8C%E7%84%B6%E5%90%8E%E5%86%8D%E4%BC%A0%E9%80%92%E7%BB%99%E5%86%85%E6%A0%B8%EF%BC%8C%E8%BF%99%E6%A0%B7%E7%94%A8%E6%88%B7%E5%B0%B1%E8%83%BD%E9%97%B4%E6%8E%A5%E5%9C%B0%E4%BD%BF%E7%94%A8%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E4%BA%86%E3%80%82%20%E4%BD%A0%E7%9C%8B%EF%BC%8C%E5%9C%A8%E7%94%A8%E6%88%B7%E5%92%8C%E5%86%85%E6%A0%B8%E4%B9%8B%E9%97%B4%E5%A2%9E%E5%8A%A0%E4%B8%80%E5%B1%82%20%E2%80%9C%E4%BB%A3%E7%90%86%E2%80%9D%20%EF%BC%8C%E6%97%A2%E8%83%BD%E7%AE%80%E5%8C%96%E7%94%A8%E6%88%B7%E7%9A%84%E6%93%8D%E4%BD%9C%EF%BC%8C%E5%8F%88%E8%83%BD%E4%BF%9D%E9%9A%9C%E5%86%85%E6%A0%B8%E7%9A%84%E5%AE%89%E5%85%A8%EF%BC%8C%E4%BD%95%E4%B9%90%E4%B8%8D%E4%B8%BA%E5%91%A2%EF%BC%9F%20%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%E5%92%8C%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B0%B1%E6%98%AF%E8%BF%99%E4%B8%AA%E5%8F%A6%E5%A4%96%E5%BC%80%E5%8F%91%E7%9A%84%E7%A8%8B%E5%BA%8F%EF%BC%8C%E5%B0%B1%E6%98%AF%E8%BF%99%E5%B1%82%20%E2%80%9C%E4%BB%A3%E7%90%86%E2%80%9D,%E6%9C%AC%E8%BA%AB%E5%B9%B6%E4%B8%8D%E6%98%AF%E5%86%85%E6%A0%B8%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86%EF%BC%8C%E5%AE%83%E5%8F%AA%E6%98%AF%E7%AB%99%E5%9C%A8%E5%86%85%E6%A0%B8%E7%9A%84%E5%9F%BA%E7%A1%80%E4%B8%8A%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%B8%AA%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E5%AE%83%E5%92%8C%20QQ%20%E3%80%81%20%E8%BF%85%E9%9B%B7%20%E3%80%81%20Firefox%20%E7%AD%89%E5%85%B6%E5%AE%83%E8%BD%AF%E4%BB%B6%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%E3%80%82%20).
+
+## Start up project
+
+* [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
+
+# Linux Shell 基礎操作
+
+## 基礎中的基礎
+
+* [linux基础学习笔记一：简单记录一些常用的linux命令](https://zhuanlan.zhihu.com/p/457739479)
+
+* [linux基础学习笔记二：认识一下非常好用的man命令](https://zhuanlan.zhihu.com/p/457864373)
+
+* [linux基础学习笔记四：带你认识一下shell](https://zhuanlan.zhihu.com/p/457868028)
+
+* [linux基础学习笔记五：软链接和硬链接](https://zhuanlan.zhihu.com/p/457868840)
+
+* [linux基础学习笔记六：配置环境变量](https://zhuanlan.zhihu.com/p/457869719)
+
+
+## 稍微入門的
+
+* [linux基础学习笔记七：linux系统目录以及linux内核源码目录分析](https://zhuanlan.zhihu.com/p/457870669)
+  
+* [Shell編成範例](https://tinylab-1.gitbook.io/shellbook/01-chapter1)
+
+
+# 工具使用
+## Git
+* [还不会使用 GitHub ？ GitHub 教程来了！万字图文详解](https://zhuanlan.zhihu.com/p/369486197)
+  
+* [github使用指南(史上最全)](https://blog.csdn.net/nuannuanwfm/article/details/104119932)
+  
+* [連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/intro/intro1_1.html)
+
+* [Introduction to GitHub in VS Code](https://code.visualstudio.com/learn/students/github-pack)
+
+* [Working with GitHub in VS Code](https://code.visualstudio.com/docs/sourcecontrol/github)
+
+* [VS Code Tips and Tricks](https://github.com/microsoft/vscode-tips-and-tricks)
+
+# C程式開發相關
+
+* [深入淺出Hello World](https://tinylab.org/wp-content/uploads/hacking-helloworld/HackingHelloWorld-PartI-2007-03-25.pdf)
+  
+* [linux基础学习笔记八：Makefile基础学习](https://zhuanlan.zhihu.com/p/457872924)
+
+* [C語言編程透視](https://www.bookstack.cn/read/open-c-book/doc-README.md)
+
+
+  
