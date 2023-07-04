@@ -33,6 +33,8 @@
   
 * [Makefile教程（绝对经典，所有问题看这一篇足够了）](https://blog.csdn.net/weixin_38391755/article/details/80380786)
   
+* [linux基础学习笔记八：Makefile基础学习](https://zhuanlan.zhihu.com/p/457872924)
+  
 * [Makefile Turorial](https://makefiletutorial.com/)
   
 * [Makefile Tutorials and Examples to Build From](https://earthly.dev/blog/make-tutorial/)
@@ -62,8 +64,6 @@
 
 * [深入淺出Hello World](https://tinylab.org/wp-content/uploads/hacking-helloworld/HackingHelloWorld-PartI-2007-03-25.pdf)
   
-* [linux基础学习笔记八：Makefile基础学习](https://zhuanlan.zhihu.com/p/457872924)
-
 * [C語言編程透視](https://www.bookstack.cn/read/open-c-book/doc-README.md)
 
 
