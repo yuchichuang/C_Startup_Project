@@ -27,6 +27,17 @@
 
 
 # 工具使用
+
+## make
+* [簡單學 makefile：makefile 介紹與範例程式](https://www.mropengate.com/2018/01/makefile.html)
+  
+* [Makefile教程（绝对经典，所有问题看这一篇足够了）](https://blog.csdn.net/weixin_38391755/article/details/80380786)
+  
+* [Makefile Turorial](https://makefiletutorial.com/)
+  
+* [Makefile Tutorials and Examples to Build From](https://earthly.dev/blog/make-tutorial/)
+
+
 ## Git
 * [还不会使用 GitHub ？ GitHub 教程来了！万字图文详解](https://zhuanlan.zhihu.com/p/369486197)
   
